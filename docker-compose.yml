@@ -10,7 +10,6 @@ services:
       volumes:
         - ./data:/var/lib/postgres
       environment:
-        SPRING_DATASOURCE_URL: jdbc:postgresql://localhost:5432/db
         POSTGRES_DB: db
         POSTGRES_USER: app
         POSTGRES_PASSWORD: 123123
