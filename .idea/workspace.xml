@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8393787e-2140-4e60-9aab-69b600067460" name="Changes" comment="Commit_22.01_15:01">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="8393787e-2140-4e60-9aab-69b600067460" name="Changes" comment="Commit_22.01_15:05" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,8 +55,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/User/IdeaProjects/firstDockerProject",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "xpath.settings"
   }
@@ -163,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674381695612</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit_22.01_15:05">
+      <created>1674381938515</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674381938515</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,7 +186,8 @@
     <MESSAGE value="Commit_14.01_15:07" />
     <MESSAGE value="Commit_14.01_15:13" />
     <MESSAGE value="Commit_22.01_15:01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit_22.01_15:01" />
+    <MESSAGE value="Commit_22.01_15:05" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit_22.01_15:05" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
